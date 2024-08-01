@@ -25,7 +25,7 @@ The assets can be found: [here](https://drive.google.com/drive/folders/1yloKPnGc
 
 ## Demo
 
-There is a demo on this project! And I'm not being indirect, here is the link: click [here](https://l-xdt.github.com/xapp/)
+There is a demo on this project! And I'm not being indirect, here is the link: click [here](https://l-xdt.github.io/xapp/)
 
 ## Features
 
